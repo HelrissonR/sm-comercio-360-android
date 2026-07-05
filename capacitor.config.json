@@ -1,7 +1,11 @@
 {
   "appId": "br.com.sm360.comercio",
-  "appName": "Comercio 360",
+  "appName": "SM Cosméticos",
   "webDir": "www",
-  "android": { "allowMixedContent": false },
-  "server": { "androidScheme": "https" }
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
 }
